@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ta.thuykim@gmail.com
+	name = thuykim ta
